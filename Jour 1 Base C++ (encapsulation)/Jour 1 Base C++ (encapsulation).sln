@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jour 1 Base C++ (encapsulation)", "Jour 1 Base C++ (encapsulation)\Jour 1 Base C++ (encapsulation).vcxproj", "{CFD207A4-5A20-4121-B95D-062220A8FF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Debug|x64.ActiveCfg = Debug|x64
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Debug|x64.Build.0 = Debug|x64
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Debug|x86.Build.0 = Debug|Win32
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Release|x64.ActiveCfg = Release|x64
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Release|x64.Build.0 = Release|x64
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Release|x86.ActiveCfg = Release|Win32
+		{CFD207A4-5A20-4121-B95D-062220A8FF48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35720EFC-6D5E-4A6A-826B-0325066C7738}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  Vector.cpp
+C:\Users\kabboud\source\repos\Exo 1\Exo 1\Vector.cpp(19,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\kabboud\source\repos\Exo 1\Exo 1\Vector.cpp(22,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\kabboud\source\repos\Exo 1\Exo 1\Vector.cpp(24,1): warning C4715: 'Vector2::GetPosition' : les chemins de contrôle ne retournent pas tous une valeur
+  Exo 1.vcxproj -> C:\Users\kabboud\source\repos\Exo 1\Exo 1\x64\Debug\Exo 1.exe
